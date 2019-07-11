@@ -6,3 +6,9 @@ AI includes ML, DL, etc. techniques for prediction algorithms
 
 ## References
 * TensorFlow Tutorial - https://www.guru99.com/tensorflow-tutorial.html
+* TensorFlow Tutorial for beginners - https://www.datacamp.com/community/tutorials/tensorflow-tutorial
+* 10 updates about TensorFlow 2.0 - https://www.datacamp.com/community/tutorials/ten-important-updates-tensorflow
+
+## Courses
+* [Introduction to Deep Learning with PyTorch](https://classroom.udacity.com/courses/ud188)
+* [Machine Learning Interview Preparation](https://classroom.udacity.com/courses/ud1001/)
