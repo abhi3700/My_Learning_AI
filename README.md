@@ -4,6 +4,9 @@ AI includes ML, DL, etc. techniques for prediction algorithms
 ## Github Repositories
 * TensorFlow Examples - https://github.com/aymericdamien/TensorFlow-Examples
 
+## Papers
+* Browse state-of-the-art - https://paperswithcode.com/sota
+
 ## References
 * TensorFlow Tutorial - https://www.guru99.com/tensorflow-tutorial.html
 * TensorFlow Tutorial for beginners - https://www.datacamp.com/community/tutorials/tensorflow-tutorial
