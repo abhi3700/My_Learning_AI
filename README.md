@@ -15,3 +15,4 @@ AI includes ML, DL, etc. techniques for prediction algorithms
 ## Courses
 * [Introduction to Deep Learning with PyTorch](https://classroom.udacity.com/courses/ud188)
 * [Machine Learning Interview Preparation](https://classroom.udacity.com/courses/ud1001/)
+* [ML Crash course by Google](https://developers.google.com/machine-learning/crash-course/)
