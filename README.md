@@ -13,6 +13,7 @@ AI includes ML, DL, etc. techniques for prediction algorithms
 * 10 updates about TensorFlow 2.0 - https://www.datacamp.com/community/tutorials/ten-important-updates-tensorflow
 
 ## Courses
+* [Foundation of Machine Learning](https://bloomberg.github.io/foml/#home) (Learn Maths with Python)
 * [Introduction to Deep Learning with PyTorch](https://classroom.udacity.com/courses/ud188)
 * [Machine Learning Interview Preparation](https://classroom.udacity.com/courses/ud1001/)
 * [ML Crash course by Google](https://developers.google.com/machine-learning/crash-course/)
