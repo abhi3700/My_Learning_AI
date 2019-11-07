@@ -14,7 +14,8 @@ print(a) # => Tensor("Add:0", shape=(), dtype=int32)
 * TensorFlow mathematics: operation, graph [1]
   - when you `“add”` something in TF, you are designing an `“add”` operation, not actually adding anything.
   - All those operations are organised as a `Graph`, your Graph holds operations and tensors, not values.
-* 
+* Traditional algorithm v/s ML-based algorithm
+	- In traditional algorithm writing the rules takes time | But here, data training & computing takes time.
 
 
 
