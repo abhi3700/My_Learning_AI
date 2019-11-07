@@ -1,6 +1,16 @@
 # My_Learning_AI
 AI includes ML, DL, etc. techniques for prediction algorithms
 
+## Installation
+1. [Anaconda](https://www.anaconda.com/distribution/#download-section)
+2. [Cuda toolkit](https://developer.nvidia.com/cuda-10.0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal): download via local copy
+	- CUPTI
+	- cuDNN
+	- Add to PATH
+3. TensorFLow
+	- CPU: `pip install tensorflow`
+	- GPU: `pip install tensorflow-gpu`
+
 ## Github Repositories
 * TensorFlow Examples - https://github.com/aymericdamien/TensorFlow-Examples
 * TensorFlow 2.0 examples - https://github.com/dragen1860/TensorFlow-2.x-Tutorials
