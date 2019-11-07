@@ -4,7 +4,7 @@ AI includes ML, DL, etc. techniques for prediction algorithms
 ## Github Repositories
 * TensorFlow Examples - https://github.com/aymericdamien/TensorFlow-Examples
 * TensorFlow 2.0 examples - https://github.com/dragen1860/TensorFlow-2.x-Tutorials
-* Hands-on Machine Learning with Scikit-Learn and TensorFlow - [Book](http://shop.oreilly.com/product/0636920052289.do), [Repository](https://github.com/ageron/handson-ml)
+* Hands-on Machine Learning with Scikit-Learn and TensorFlow - [Book](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf), [Repository](https://github.com/ageron/handson-ml)
 
 ## Papers
 * Browse state-of-the-art - https://paperswithcode.com/sota
