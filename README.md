@@ -10,9 +10,9 @@ AI includes ML, DL, etc. techniques for prediction algorithms
 	- __CUPTI:__ Installed via local copy (downloaded aboves)
 		+ After this, add to PATH:
 		Ensure this path is present in the environment variable - PATH:
-	```md
-	C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\extras\CUPTI\libx64
-	```
+```md
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\extras\CUPTI\libx64
+```
 
 	- __cuDNN:__ Download "__cuDNN Library for Windows 10__" from [here](https://developer.nvidia.com/rdp/cudnn-download)
 		+ Copy the following files into the CUDA Toolkit directory. <br/>
@@ -20,26 +20,26 @@ AI includes ML, DL, etc. techniques for prediction algorithms
 			b. Copy `<installpath>\cuda\ include\cudnn.h` to `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include`.<br/>
 			c. Copy `<installpath>\cuda\lib\x64\cudnn.lib` to `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\lib\x64`.<br/>
 		+ Ensure the following values (in Environment Variables at the bottom of the window) are set:
-	```md
-	Variable Name: CUDA_PATH 
-	Variable Value: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0		
-	```
+```md
+Variable Name: CUDA_PATH 
+Variable Value: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0		
+```
 	[SOURCE](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html#installwindows)
 		+ Add to PATH:
 		Ensure these 2 paths are present in the environment variable - PATH:
-	```md
-	C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin
-	C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp
-	```
+```md
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp
+```
 
 	- Verify CUDA installation
-	```console
-	C:\Users\abhijit>nvcc -V
-	nvcc: NVIDIA (R) Cuda compiler driver
-	Copyright (c) 2005-2018 NVIDIA Corporation
-	Built on Sat_Aug_25_21:08:04_Central_Daylight_Time_2018
-	Cuda compilation tools, release 10.0, V10.0.130
-	```
+```console
+C:\Users\abhijit>nvcc -V
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2018 NVIDIA Corporation
+Built on Sat_Aug_25_21:08:04_Central_Daylight_Time_2018
+Cuda compilation tools, release 10.0, V10.0.130
+```
 
 3. TensorFlow
 	- CPU: `pip install tensorflow`
@@ -51,9 +51,10 @@ AI includes ML, DL, etc. techniques for prediction algorithms
 * Hands-on Machine Learning with Scikit-Learn and TensorFlow - [Book](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf), [Repository](https://github.com/ageron/handson-ml)
 
 ## Books
-1. Hands-on Machine Learning with Scikit-Learn and TensorFlow
+1. [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
 2. [Machine Learning with TensorFlow](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Machine%20Learning%20with%20TensorFlow.pdf)
-3. [Mathematics for Machine Learning](https://github.com/abhi3700/My_Learning_AI/blob/master/books/mathematics_for_machine_learning.pdf)
+3. [Mathematics for Machine Learning](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Mathematics%20For%20Machine%20Learning.pdf)
+4. [Getting Started with TensorFlow](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Getting%20Started%20with%20TensorFlow.pdf)
 
 ## Papers
 * Browse state-of-the-art - https://paperswithcode.com/sota
