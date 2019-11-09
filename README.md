@@ -25,6 +25,7 @@ Variable Name: CUDA_PATH
 Variable Value: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0		
 ```
 	[SOURCE](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html#installwindows)
+	
 		+ Add to PATH:
 		Ensure these 2 paths are present in the environment variable - PATH:
 ```md
