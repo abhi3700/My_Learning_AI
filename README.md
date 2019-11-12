@@ -61,6 +61,8 @@ Cuda compilation tools, release 10.0, V10.0.130
 * TensorFlow Tutorial - https://www.guru99.com/tensorflow-tutorial.html
 * TensorFlow Tutorial for beginners - https://www.datacamp.com/community/tutorials/tensorflow-tutorial
 * 10 updates about TensorFlow 2.0 - https://www.datacamp.com/community/tutorials/ten-important-updates-tensorflow
+* Infographic – A Complete Guide on Getting Started with Deep Learning in Python - https://www.analyticsvidhya.com/blog/2018/08/infographic-complete-deep-learning-path/
+* A Complete Guide on Getting Started with Deep Learning in Python - https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/
 
 ## Courses
 * [Foundation of Machine Learning](https://bloomberg.github.io/foml/#home) (Learn Maths with Python)
