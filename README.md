@@ -47,6 +47,7 @@ Cuda compilation tools, release 10.0, V10.0.130
 * TensorFlow Examples - https://github.com/aymericdamien/TensorFlow-Examples
 * TensorFlow 2.0 examples - https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 * Hands-on Machine Learning with Scikit-Learn and TensorFlow - [Book](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf), [Repository](https://github.com/ageron/handson-ml)
+* Scikit Learn for Python in C++ (Single Headers and No dependencies) - https://github.com/VISWESWARAN1998/sklearn
 
 ## Books
 1. [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
@@ -64,6 +65,9 @@ Cuda compilation tools, release 10.0, V10.0.130
 * Infographic – A Complete Guide on Getting Started with Deep Learning in Python - https://www.analyticsvidhya.com/blog/2018/08/infographic-complete-deep-learning-path/
 * A Complete Guide on Getting Started with Deep Learning in Python - https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/
 * [Linear Regression Formula Explained](https://hackerstreak.com/linear-regression-formula/)
+* Scikit-learn Tutorial: Machine Learning in Python – Dataquest - https://www.dataquest.io/blog/sci-kit-learn-tutorial/
+* Python Machine Learning: Scikit-Learn Tutorial - DataCamp - https://www.datacamp.com/community/tutorials/machine-learning-python
+* Scikit-Learn Cheat Sheet: Python Machine Learning - DataCamp - https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet
 
 ## Courses
 * [Foundation of Machine Learning](https://bloomberg.github.io/foml/#home) (Learn Maths with Python)
