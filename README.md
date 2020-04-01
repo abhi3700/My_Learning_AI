@@ -67,7 +67,7 @@ Cuda compilation tools, release 10.0, V10.0.130
 * [Linear Regression Formula Explained](https://hackerstreak.com/linear-regression-formula/)
 * Scikit-learn Tutorial: Machine Learning in Python – Dataquest - https://www.dataquest.io/blog/sci-kit-learn-tutorial/
 * Python Machine Learning: Scikit-Learn Tutorial - DataCamp - https://www.datacamp.com/community/tutorials/machine-learning-python
-* Scikit-Learn Cheat Sheet: Python Machine Learning - DataCamp - https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet
+* Scikit-Learn Cheat Sheet: Python Machine Learning - DataCamp - [Scikit learn Cheatsheet (in PDF)]("./docs/Scikit_Learn_Cheat_Sheet_Python.pdf"), https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet
 
 ## Courses
 * [Foundation of Machine Learning](https://bloomberg.github.io/foml/#home) (Learn Maths with Python)
