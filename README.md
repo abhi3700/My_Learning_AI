@@ -48,6 +48,7 @@ Cuda compilation tools, release 10.0, V10.0.130
 * TensorFlow 2.0 examples - https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 * Hands-on Machine Learning with Scikit-Learn and TensorFlow - [Book](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf), [Repository](https://github.com/ageron/handson-ml)
 * Scikit Learn for Python in C++ (Single Headers and No dependencies) - https://github.com/VISWESWARAN1998/sklearn
+* Tensorflow examples written in C++ - https://github.com/ksachdeva/tensorflow-cc-examples
 
 ## Books
 1. [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
