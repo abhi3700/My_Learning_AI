@@ -57,11 +57,19 @@ Cuda compilation tools, release 10.0, V10.0.130
 4. [Getting Started with TensorFlow](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Getting%20Started%20with%20TensorFlow.pdf)
 
 ## Videos
+### Understanding
 * Neural Networks (explained by Blue1Brown) - https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 * Live Coding (Neural Networks using C++) - https://www.youtube.com/playlist?list=PL2-7U6BzddIYBOl98DDsmpXiTcj1ojgJG
 
+### Talks
+* [ ] [ML BuzzWords demystified - Oleksandra Sopova & Natalia](https://youtu.be/4pGhvcVz1Xg)
+* [ ] [Machine Learning: The Bare Math Behind Libraries - Piotr Czajka and Łukasz Gebel](https://youtu.be/yoP2uNYFGSw)
+* [ ] [ML and the IoT: Living on the Edge - Brandon Satrom](https://youtu.be/5SYjR2D4p0c)
+
 ## Papers
 * Browse state-of-the-art - https://paperswithcode.com/sota
+
+
 
 ## References
 * TensorFlow Tutorial - https://www.guru99.com/tensorflow-tutorial.html
