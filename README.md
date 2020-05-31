@@ -55,6 +55,10 @@ Cuda compilation tools, release 10.0, V10.0.130
 3. [Mathematics for Machine Learning](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Mathematics%20For%20Machine%20Learning.pdf)
 4. [Getting Started with TensorFlow](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Getting%20Started%20with%20TensorFlow.pdf)
 
+## Videos
+* Neural Networks (explained by Blue1Brown) - https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+* Live Coding (Neural Networks using C++) - https://www.youtube.com/playlist?list=PL2-7U6BzddIYBOl98DDsmpXiTcj1ojgJG
+
 ## Papers
 * Browse state-of-the-art - https://paperswithcode.com/sota
 
