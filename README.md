@@ -63,6 +63,7 @@ Cuda compilation tools, release 10.0, V10.0.130
 * Live Coding (Neural Networks using C++) - https://www.youtube.com/playlist?list=PL2-7U6BzddIYBOl98DDsmpXiTcj1ojgJG
 * C++ Machine Learning - https://www.youtube.com/playlist?list=PL79n_WS-sPHKklEvOLiM1K94oJBsGnz71
 * Deep Learning for Coders (2020) - https://www.youtube.com/watch?v=_QUEXsHfsA0&list=RDCMUCX7Y2qWriXpqocG97SFW2OQ
+* Neural Networks by Blue1Brown - https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3p
 
 ### Talks
 * [ ] [ML BuzzWords demystified - Oleksandra Sopova & Natalia](https://youtu.be/4pGhvcVz1Xg)
