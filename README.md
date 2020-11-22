@@ -51,16 +51,18 @@ Cuda compilation tools, release 10.0, V10.0.130
 * Tensorflow examples written in C++ - https://github.com/ksachdeva/tensorflow-cc-examples
 
 ## Books
-1. [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
-2. [Machine Learning with TensorFlow](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Machine%20Learning%20with%20TensorFlow.pdf)
-3. [Mathematics for Machine Learning](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Mathematics%20For%20Machine%20Learning.pdf)
-4. [Getting Started with TensorFlow](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Getting%20Started%20with%20TensorFlow.pdf)
+1. [Hands-on Machine Learning with Scikit-Learn and TensorFlow 1st edition](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf), [Github](https://github.com/ageron/handson-ml)
+1. [Hands-on Machine Learning with Scikit-Learn and TensorFlow 2nd edition](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_2nd_edition.pdf), [Github](https://github.com/ageron/handson-ml2)
+1. [Machine Learning with TensorFlow](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Machine%20Learning%20with%20TensorFlow.pdf)
+1. [Mathematics for Machine Learning](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Mathematics%20For%20Machine%20Learning.pdf)
+1. [Getting Started with TensorFlow](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Getting%20Started%20with%20TensorFlow.pdf)
 
 ## Videos
 ### Understanding
 * Neural Networks (explained by Blue1Brown) - https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 * Live Coding (Neural Networks using C++) - https://www.youtube.com/playlist?list=PL2-7U6BzddIYBOl98DDsmpXiTcj1ojgJG
 * C++ Machine Learning - https://www.youtube.com/playlist?list=PL79n_WS-sPHKklEvOLiM1K94oJBsGnz71
+* Deep Learning for Coders (2020) - https://www.youtube.com/watch?v=_QUEXsHfsA0&list=RDCMUCX7Y2qWriXpqocG97SFW2OQ
 
 ### Talks
 * [ ] [ML BuzzWords demystified - Oleksandra Sopova & Natalia](https://youtu.be/4pGhvcVz1Xg)
@@ -85,6 +87,8 @@ Cuda compilation tools, release 10.0, V10.0.130
 
 ## Courses
 * [Foundation of Machine Learning](https://bloomberg.github.io/foml/#home) (Learn Maths with Python)
+* [Machine Learning by Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning)
+* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning on Coursera](https://www.coursera.org/learn/introduction-tensorflow)
 * [Introduction to Deep Learning with PyTorch](https://classroom.udacity.com/courses/ud188)
 * [Machine Learning Interview Preparation](https://classroom.udacity.com/courses/ud1001/)
 * [ML Crash course by Google](https://developers.google.com/machine-learning/crash-course/)
