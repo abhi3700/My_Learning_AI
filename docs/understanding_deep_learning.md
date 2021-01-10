@@ -157,7 +157,72 @@ where, f -> activation function
 
 > In artificial neural networks, hidden layers are required if and only if the data must be separated non-linearly.
 
+## Back Propagation
+* [Medium article: Understanding Backpropagation Algorithm](https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)
+* The neural network looks like this:
+<p align="center">
+  <img src="../images/neural_network_4layer.png" alt="" width="" height="">
+</p>
+* W² and W³ are the weights in layer 2 and 3 while b² and b³ are the biases in those layers.
+* The equation for input layer
+<p align="center">
+  <img src="../images/equation_input_layer.png" alt="" width="" height="">
+</p>
+* The equation for layer 2
+<p align="center">
+  <img src="../images/equation_layer_2.png" alt="" width="" height="">
+</p>
+* The equation for layer 3
+<p align="center">
+  <img src="../images/equation_layer_3.png" alt="" width="" height="">
+</p>
+* Activations 'a' are computed using an activation function f (a non-linear func like sigmoid, ReLU, tanh).
+* Looking carefully, you can see that all of x, z², a², z³, a³, W¹, W², b¹ and b² are missing their subscripts presented in the 4-layer network illustration above. The reason is that we have combined all parameter values in matrices, grouped by layers.
+* Take for example layer-2:
+	- W¹ is a weight matrix of shape (n, m) where n is the number of output neurons (neurons in the next layer) and m is the number of input neurons (neurons in the previous layer). For us, n = 2 and m = 4.
+<p align="center">
+  <img src="../images/equation_W(1).png" alt="" width="" height="">
+</p>
+<p align="center">
+  <img src="../images/equation_x.png" alt="" width="" height="">
+</p>
+<p align="center">
+  <img src="../images/equation_b.png" alt="" width="" height="">
+</p>
+<p align="center">
+  <img src="../images/equation_z_2.png" alt="" width="" height="">
+</p>
+* Now carefully observe the neural network illustration from above
+<p align="center">
+  <img src="../images/input_hidden_1_layers.jpeg" alt="" width="" height="">
+</p>
+* You will see that z² can be expressed using (z_1)² and (z_2)² where (z_1)² and (z_2)² are the sums of the multiplication between every input x_i with the corresponding weight (W_ij)¹
+* The final part of a neural network is the output layer which produces the predicated value. 
+<p align="center">
+  <img src="../images/equation_s.png" alt="" width="" height="">
+</p>
+* Overview of forward propagation equation
+<p align="center">
+  <img src="../images/overview_forward_propagation_equations.png" alt="" width="" height="">
+</p>
+* The final step in a forward pass is to evaluate the predicted output s against an expected output y.
+* The output y is part of the training dataset (x, y) where x is the input (as we saw in the previous section).
+* Evaluation between s and y happens through a cost function. This can be as simple as MSE (mean squared error) or more complex like cross-entropy.
+* We name this cost function C and denote it as follows:
+<p align="center">
+  <img src="../images/equation_cost_func_c.png" alt="" width="" height="">
+</p>
+	- where, cost can be equal to [MSE](https://en.wikipedia.org/wiki/Mean_squared_error), [cross-entropy](http://neuralnetworksanddeeplearning.com/chap3.html) or [any other cost function](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications).
+* Based on C’s value, the model “knows” how much to adjust its parameters in order to get closer to the expected output y. This happens using the backpropagation algorithm.
+* According to the paper from 1989, backpropagation:
 
+> repeatedly adjusts the weights of the connections in the network so as to minimize a measure of the difference between the actual output vector of the net and the desired output vector.
+
+and
+
+> the ability to create useful new features distinguishes back-propagation from earlier, simpler methods…
+
+* In other words, backpropagation aims to minimize the cost function by adjusting network’s weights and biases.
 
 ## References
 * https://www.datacamp.com/community/tutorials/deep-learning-python
