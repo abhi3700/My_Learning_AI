@@ -222,7 +222,7 @@ and
 
 > the ability to create useful new features distinguishes back-propagation from earlier, simpler methods…
 
-* In other words, backpropagation aims to minimize the cost function by adjusting network’s weights and biases.
+* In other words, backpropagation aims to minimize the cost function by adjusting network’s weights and biases. The level of adjustment is determined by the gradients of the cost function with respect to those parameters.
 
 ## References
 * https://www.datacamp.com/community/tutorials/deep-learning-python
