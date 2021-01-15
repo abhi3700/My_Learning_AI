@@ -224,6 +224,9 @@ and
 
 * In other words, backpropagation aims to minimize the cost function by adjusting network’s weights and biases. The level of adjustment is determined by the gradients of the cost function with respect to those parameters.
 
+## Feature Extraction
+* In Computer vision, an image kernel is a small matrix used to apply effects like the ones you might find in Photoshop or Gimp, such as blurring, sharpening, outlining or embossing. They're also used in machine learning for 'feature extraction', a technique for determining the most important portions of an image. In this context the process is referred to more generally as "convolution" (see: convolutional neural networks.) [Read more](https://setosa.io/ev/image-kernels/)
+
 ## References
 * https://www.datacamp.com/community/tutorials/deep-learning-python
 * [sigmoid unit in neural networks](https://www.youtube.com/watch?v=9IwbALQ9kdY)
