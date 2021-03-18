@@ -74,6 +74,7 @@ Cuda compilation tools, release 10.0, V10.0.130
 ## Papers
 * Browse state-of-the-art - https://paperswithcode.com/sota
 * Best AI papers 2020 - https://github.com/louisfb01/Best_AI_paper_2020
+* [PyTorch implementation of our ICRA'19 paper on "Self-supervised Sparse-to-Dense: Self-supervised Depth Completion from LiDAR and Monocular Camera"](https://github.com/fangchangma/self-supervised-depth-completion)
 
 
 ## References
