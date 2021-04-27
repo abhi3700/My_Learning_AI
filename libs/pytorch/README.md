@@ -18,6 +18,9 @@ pip install torch==1.8.1+cu111 torchvision==0.9.1+cu111 torchaudio===0.8.1 -f ht
 > Connected to the "Python 3 Google Compute Backend Engine"
 
 * Just install using pip in notebook
+* In order to connect using GPU, TPU, "Edit >> Notebook Settings >> Hardware Accelerator"
+
+### Local:
 
 ## Getting Started
 * To check if pytorch is working properly
