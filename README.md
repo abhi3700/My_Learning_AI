@@ -50,6 +50,7 @@ Cuda compilation tools, release 10.0, V10.0.130
 * Scikit Learn for Python in C++ (Single Headers and No dependencies) - https://github.com/VISWESWARAN1998/sklearn
 * Tensorflow examples written in C++ - https://github.com/ksachdeva/tensorflow-cc-examples
 * 500 AI ML DL Computer vision NLP Projects with code - https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+* CS230 Code Examples for Pytorch & Tensorflow (by Andrew Ng & Kian Katanforoosh) - https://github.com/cs230-stanford/cs230-code-examples
 
 ## Books
 1. [Hands-on Machine Learning with Scikit-Learn and TensorFlow 1st edition](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf), [Github](https://github.com/ageron/handson-ml)
@@ -87,6 +88,8 @@ Cuda compilation tools, release 10.0, V10.0.130
 * Scikit-learn Tutorial: Machine Learning in Python – Dataquest - https://www.dataquest.io/blog/sci-kit-learn-tutorial/
 * Python Machine Learning: Scikit-Learn Tutorial - DataCamp - https://www.datacamp.com/community/tutorials/machine-learning-python
 * Scikit-Learn Cheat Sheet: Python Machine Learning - DataCamp - [Scikit learn Cheatsheet (in PDF)]("./docs/Scikit_Learn_Cheat_Sheet_Python.pdf"), https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet
+* [Pytorch Blog](https://pytorch.org/blog/)
+* [Tensorflow Blog](https://pytorch.org/blog/)
 
 ## Courses
 * [Foundation of Machine Learning](https://bloomberg.github.io/foml/#home) (Learn Maths with Python)
