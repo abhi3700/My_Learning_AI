@@ -95,3 +95,6 @@ Cuda compilation tools, release 10.0, V10.0.130
 * [Introduction to Deep Learning with PyTorch](https://classroom.udacity.com/courses/ud188)
 * [Machine Learning Interview Preparation](https://classroom.udacity.com/courses/ud1001/)
 * [ML Crash course by Google](https://developers.google.com/machine-learning/crash-course/)
+
+## Blogs
+* [Project Spock at Tubi: Understanding Content Using Deep Learning for NLP](https://medium.com/pytorch/project-spock-at-tubi-understanding-content-using-deep-learning-for-nlp-2b102ca25ed9)
