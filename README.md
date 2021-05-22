@@ -51,6 +51,7 @@ Cuda compilation tools, release 10.0, V10.0.130
 * Tensorflow examples written in C++ - https://github.com/ksachdeva/tensorflow-cc-examples
 * 500 AI ML DL Computer vision NLP Projects with code - https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 * CS230 Code Examples for Pytorch & Tensorflow (by Andrew Ng & Kian Katanforoosh) - https://github.com/cs230-stanford/cs230-code-examples
+* A deep learning library for video understanding research - https://github.com/facebookresearch/pytorchvideo
 
 ## Dataset
 * [Awesome list of datasets in 100+ categories](https://www.kdnuggets.com/2021/05/awesome-list-datasets.html)
