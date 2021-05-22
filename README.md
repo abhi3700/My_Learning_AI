@@ -52,6 +52,9 @@ Cuda compilation tools, release 10.0, V10.0.130
 * 500 AI ML DL Computer vision NLP Projects with code - https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 * CS230 Code Examples for Pytorch & Tensorflow (by Andrew Ng & Kian Katanforoosh) - https://github.com/cs230-stanford/cs230-code-examples
 
+## Dataset
+* [Awesome list of datasets in 100+ categories](https://www.kdnuggets.com/2021/05/awesome-list-datasets.html)
+
 ## Books
 1. [Hands-on Machine Learning with Scikit-Learn and TensorFlow 1st edition](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf), [Github](https://github.com/ageron/handson-ml)
 1. [Hands-on Machine Learning with Scikit-Learn and TensorFlow 2nd edition](https://github.com/abhi3700/My_Learning_AI/blob/master/books/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_2nd_edition.pdf), [Github](https://github.com/ageron/handson-ml2)
